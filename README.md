@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ismail
-- 👀 I’m interested in Flutter & Compose Developer
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Flutter Development
+- 📫 How to reach me ismailrabie111@gmail.com
+- ⚡ Fun fact: always learning
 
 <!---
 somaa1/somaa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
