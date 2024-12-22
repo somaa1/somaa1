@@ -61,16 +61,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
   
-  <!-- Bloc -->
-  <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" alt="bloc" width="40" height="40"/>
-  </a>
-  
-  <!-- Codemagic -->
-  <a href="https://codemagic.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/codemagicio/codemagicio-icon.svg" alt="codemagic" width="40" height="40"/>
-  </a>
-  
+
   <!-- Figma -->
   <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -82,7 +73,7 @@
   </a>
 </p>
 
-
+<hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somaa1&show_icons=true&locale=en&layout=compact" alt="somaa1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somaa1&show_icons=true&locale=en" alt="somaa1" /></p>
