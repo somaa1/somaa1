@@ -1,5 +1,18 @@
-<h1 align="center">Hi, I'm Ismail 👋</h1>
-<p align="center">🌱 Flutter Developer | 💻 Always learning and exploring new technologies</p>
+<h1 align="center">Hi, I'm Ismail Rabie👋</h1>
+<p align="center">🌱 Passionate Flutter Developer | 💻 Continuously learning and evolving</p>
+
+---
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=somaa1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somaa1&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somaa1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -38,18 +51,12 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
+  <a href="https://figma.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">🚀 I never stop learning and always enjoy exploring the latest technologies!</p>
+<p align="center">🚀 I never stop learning and enjoy exploring new technologies every day!</p>
